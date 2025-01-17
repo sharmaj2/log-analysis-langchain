@@ -1,3 +1,5 @@
+The main.py file uses mmr retrieving mechanism and main_compression_retriever.py uses contextual compression.
+
 1. **Set Up a Virtual Environment (venv or conda)**  
    - Create and activate a new conda environment:  
      ```bash
